@@ -73,6 +73,11 @@ Nexly Antidetect — настольное приложение для парал
 - Переменные скрипта с типами.
 - **Кастомные функции** — создай свой блок из других блоков.
 
+  <img width="2408" height="1359" alt="image" src="https://github.com/user-attachments/assets/58452306-6b54-40c7-909b-b7a0e9d93981" />
+  <img width="387" height="1246" alt="image" src="https://github.com/user-attachments/assets/5a6d30df-af9e-4686-bb8c-de6656b38dcc" />
+
+
+
 ### 🤖 Решение капч из коробки
 
 - **reCAPTCHA v2** (чекбокс и invisible)
@@ -96,6 +101,9 @@ Nexly Antidetect — настольное приложение для парал
 Вставляешь фрагмент HTML → получаешь **готовые селекторы** с оценкой устойчивости (1-5 звёзд).
 
 Конвертер умный: понимает `id`, `data-testid`, `aria-label`, структуру родитель-потомок, sibling-оси, текстовое содержимое. **Отсеивает динамические классы** (styled-components, css-modules, JSX, Svelte, Emotion, Tailwind JIT, хеши) — они нестабильны, и селектор на них ломается при следующем деплое сайта.
+
+<img width="1248" height="1292" alt="image" src="https://github.com/user-attachments/assets/f0fc8217-345b-45c0-bbff-e6a5d6c89177" />
+
 
 ### 🌐 Прокси
 
